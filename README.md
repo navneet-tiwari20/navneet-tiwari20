@@ -160,7 +160,7 @@ https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERN
 
 - GitHub: https://github.com/YOUR_USERNAME
 - LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- Email: YOUR_EMAIL
+- Email: tiwarinavneet2003@gmail.com
 
 ---
 
