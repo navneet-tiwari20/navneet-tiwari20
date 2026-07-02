@@ -158,7 +158,7 @@ https://github-readme-activity-graph.vercel.app/graph?username=navneet-tiwari20
 
 # 📫 Connect
 
-- GitHub: https://github.com/YOUR_USERNAME
+- GitHub: https://github.com/navneet-tiwari20
 - LinkedIn: www.linkedin.com/in/navneet-kumar-tiwari-1418542a4
 - Email: tiwarinavneet2003@gmail.com
 
