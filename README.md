@@ -148,10 +148,10 @@ endmodule
 ```md
 Replace YOUR_GITHUB_USERNAME in the URLs below.
 
-https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME
-https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME
-https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME
-https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME
+https://github-readme-stats.vercel.app/api?username=navneet-tiwari20
+https://github-readme-stats.vercel.app/api/top-langs/?username=navneet-tiwari20
+https://streak-stats.demolab.com?user=navneet-tiwari20
+https://github-readme-activity-graph.vercel.app/graph?username=navneet-tiwari20
 ```
 
 ---
@@ -159,7 +159,7 @@ https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERN
 # 📫 Connect
 
 - GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+- LinkedIn: www.linkedin.com/in/navneet-kumar-tiwari-1418542a4
 - Email: tiwarinavneet2003@gmail.com
 
 ---
